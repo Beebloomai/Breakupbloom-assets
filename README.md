@@ -19,14 +19,3 @@ This repository contains all static assets used by the **Breakup & Bloom** blog,
 
 ---
 
-## 📲 PWA Integration (Quick Guide)
-
-To integrate these files with a Blogger site:
-
-### 1. Add to `<head>` of your Blogger theme:
-
-```html
-<link rel="shortcut icon" href="https://yourusername.github.io/breakupandbloom-assets/favicon.ico" type="image/x-icon">
-<link rel="apple-touch-icon" href="https://yourusername.github.io/breakupandbloom-assets/apple-touch-icon.png">
-<link rel="manifest" href="https://yourusername.github.io/breakupandbloom-assets/manifest.json">
-<meta name="theme-color" content="#f6d6e0">
